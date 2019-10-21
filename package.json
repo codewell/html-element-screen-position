@@ -1,0 +1,23 @@
+{
+  "name": "@codewell/html-element-screen-position",
+  "version": "0.0.1",
+  "description": "Calcualte the screen position of an html element",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/html-element-screen-position.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/html-element-screen-position/issues"
+  },
+  "homepage": "https://github.com/codewell/html-element-screen-position#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
